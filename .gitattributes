@@ -1,0 +1,4 @@
+bin/pru-lto-dump filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/pru/10.1.0/cc1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/pru/10.1.0/cc1plus filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/pru/10.1.0/lto1 filter=lfs diff=lfs merge=lfs -text
